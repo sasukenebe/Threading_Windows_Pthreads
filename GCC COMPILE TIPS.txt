@@ -1,0 +1,9 @@
+to make the gcc compile errors show up in a text file,
+
+
+
+
+gcc 2> log.txt    this will ccreate a file called log that will store all gcc errors
+
+g++ -pthread main.cpp -o success2.out
+	does something to add pthread library or capability or something when compiling i dont know

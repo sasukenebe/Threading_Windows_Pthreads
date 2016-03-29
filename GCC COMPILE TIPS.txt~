@@ -1,0 +1,6 @@
+to make the gcc compile errors show up in a text file,
+
+
+
+
+gcc 2> log.txt    this will ccreate a file called log that will store all gcc errors

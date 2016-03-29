@@ -48,4 +48,4 @@ Temporary Items
 
 #For example, "/*.c" matches "cat-file.c" but not "mozilla-sha1/sha1.c".
 /*.out
-/*.cpp
+/*.exe
